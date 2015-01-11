@@ -1,3 +1,5 @@
+/* Written by Michael Grana */
+
 //Array to store image names
 var images = [];
 
